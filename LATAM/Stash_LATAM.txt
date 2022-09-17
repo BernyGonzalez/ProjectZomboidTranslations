@@ -1,4 +1,4 @@
-Stash_EN = {
+Stash_LATAM = {
     Stash_AnnotedMap = "Annotated Map",
 
     Stash_LVMap1_Text1 = "crazy gun guy rip",

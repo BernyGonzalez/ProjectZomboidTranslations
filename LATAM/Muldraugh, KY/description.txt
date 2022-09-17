@@ -1,11 +1,11 @@
 Muldraugh
  <LINE> <LINE>
- Muldraugh is a small town in an area the locals know as "Knox Country" -
- the dead centre of the State of Kentucky. It grew as an Army town, but now welcomes
- folks from all walks of life - some commuters to the bigger towns
- nearby, some military families and some living below the poverty line.
+ Muldraugh es una pequeña ciudad en una zona que los lugareños conocen como "Knox Country" -
+ el centro muerto del Estado de Kentucky. Creció como una ciudad del ejercito, pero ahora radican
+ personas de todas las clases sociales, algunos que se desplazan a las ciudades más grandes
+ cerca, algunas familias militares y otras que viven por debajo del umbral de la pobreza.
  <LINE> <LINE>
- It's a small place, filled with good people - not to mention Spiffo’s finest
- Chicken and Biscuits this side of Kentucky! Sure, not much happens here -
- but that doesn't mean Muldraugh life is dull...
+ Es un lugar pequeño, lleno de buena gente - por no hablar del mejor
+ pollo y galletas de Spiffo a este lado de Kentucky!. Claro, no pasa mucho aquí­ -
+ pero eso no significa que la vida en Muldraugh sea aburrida...
 

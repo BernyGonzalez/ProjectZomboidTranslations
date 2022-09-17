@@ -1,11 +1,10 @@
 Riverside
  <LINE> <LINE>
- A colorful town tightly hugging the banks of the mighty Ohio: exploring Riverside is a rich and diverse experience!
- To the west you'll find the older parts of town,
- while out east is where our wealthier residents work, rest and play.
+ Una colorida ciudad que abraza con fuerza las orillas del poderoso Ohio: ¡Explorar Riverside es una experiencia rica y diversa!
+ Al oeste se encuentran las partes más antiguas de la ciudad,
+ mientras que al este es donde nuestros residentes más ricos trabajan, descansan y juegan.
  <LINE> <LINE>
- In fact, if you're considering a stay with us, 
- why not check out the nearby Knox Heights Country Club? 
- The ultimate in comfort and relaxation: members have access to an 18 hole golf
- course, tennis courts, swimming pool and spa. Come join today!
-
+ De hecho, si está considerando una estancia con nosotros,  
+ ¿Por qué no echa un vistazo al cercano al club de campo Knox Heights? 
+ Lo último en comodidad y relajación: los socios tienen acceso a un campo de golf de 18 hoyos,
+ pistas de tenis, piscina y spa. ¡Venga a hacerse socio hoy mismo!

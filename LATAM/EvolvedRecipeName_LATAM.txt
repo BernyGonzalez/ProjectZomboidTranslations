@@ -1,12 +1,12 @@
-EvolvedRecipeName_EN = {
-	EvolvedRecipeName_Base.CannedBologneseOpen = "Canned Bolognese",
-	EvolvedRecipeName_Base.CannedCarrotsOpen = "Canned Carrots",
-	EvolvedRecipeName_Base.CannedChiliOpen = "Canned Chili",
-	EvolvedRecipeName_Base.CannedCornOpen = "Canned Corn",
-	EvolvedRecipeName_Base.CannedCornedBeefOpen = "Canned Corned Beef",
-	EvolvedRecipeName_Base.CannedPeasOpen = "Canned Peas",
-	EvolvedRecipeName_Base.CannedPotatoOpen = "Canned Potato",
-	EvolvedRecipeName_Base.CannedSardinesOpen = "Canned Sardines",
-	EvolvedRecipeName_Base.CannedTomatoOpen = "Canned Tomato",
-	EvolvedRecipeName_Base.Teabag2 = "Tea",
+EvolvedRecipeName_LATAM = {
+	EvolvedRecipeName_Base.CannedBologneseOpen = "Lata de salsa boloñesa",
+	EvolvedRecipeName_Base.CannedCarrotsOpen = "Lata de zanahorias",
+	EvolvedRecipeName_Base.CannedChiliOpen = "Lata de chili",
+	EvolvedRecipeName_Base.CannedCornOpen = "Lata de maíz",
+	EvolvedRecipeName_Base.CannedCornedBeefOpen = "Carne enlatada",
+	EvolvedRecipeName_Base.CannedPeasOpen = "Lata de guisantes",
+	EvolvedRecipeName_Base.CannedPotatoOpen = "Lata de papas",
+	EvolvedRecipeName_Base.CannedSardinesOpen = "Sardinas en lata",
+	EvolvedRecipeName_Base.CannedTomatoOpen = "Lata de tomates",
+	EvolvedRecipeName_Base.Teabag2 = "Té",
 }

@@ -1,4 +1,4 @@
-MakeUp_EN = {
+MakeUp_LATAM = {
     MakeUpCategory_Eyes = "Eyes",
     MakeUpCategory_EyesShadow = "Eyeshadow",
     MakeUpCategory_FullFace = "Full Face",
