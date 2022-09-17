@@ -1,5 +1,5 @@
 Challenge_LATAM = {
-    Challenge_YouHaveOneDay_name = "Tienes un diá",
+    Challenge_YouHaveOneDay_name = "Tienes un día",
 	Challenge_YouHaveOneDay_desc = "Regresaste a Knox County. El lugar donde comenzó la infección de Proyect Zomboid. <LINE> <LINE> Tienes un dí­a relativamente tranquilo. Los zombies llegarán en gran número, y te encontrarán. ¿Donde planeas aguantar? ¿En el mismo lugar que lo hací­as en los viejos tiempos? Mejor que lo encuentres rápido. <LINE> <LINE> [Nuestro agradecimiento al mapeador de la Comunidad Bob Heckling por recrear el antiguo mapa 0.1.5 con el actual conjunto de herramientas de PZ]",
 
     Challenge_WinterIsComing_name = "Se acerca el invierno",
