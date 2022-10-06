@@ -1,35 +1,35 @@
 Challenge_LATAM = {
     Challenge_YouHaveOneDay_name = "Tienes un día",
-	Challenge_YouHaveOneDay_desc = "Regresaste a Knox County. El lugar donde comenzó la infección de Proyect Zomboid. <LINE> <LINE> Tienes un dí­a relativamente tranquilo. Los zombies llegarán en gran número, y te encontrarán. ¿Donde planeas aguantar? ¿En el mismo lugar que lo hací­as en los viejos tiempos? Mejor que lo encuentres rápido. <LINE> <LINE> [Nuestro agradecimiento al mapeador de la Comunidad Bob Heckling por recrear el antiguo mapa 0.1.5 con el actual conjunto de herramientas de PZ]",
+	Challenge_YouHaveOneDay_desc = "Regresaste a Knox County. El lugar donde comenzó la infección de Proyect Zomboid. <LINE> <LINE> Tienes un día relativamente tranquilo. Los zombies llegarán en gran número, y te encontrarán. ¿Donde planeas aguantar? ¿En el mismo lugar que lo hacías en los viejos tiempos? Mejor que lo encuentres rápido. <LINE> <LINE> [Nuestro agradecimiento al mapeador de la Comunidad Bob Heckling por recrear el antiguo mapa 0.1.5 con el actual conjunto de herramientas de PZ]",
 
     Challenge_WinterIsComing_name = "Se acerca el invierno",
-	Challenge_WinterIsComing_desc = "Es mediados de julio, pero de repente hay un frí­o en la brisa. Dentro de apenas tres di­as, un invierno se instalará¡ como nunca antes. <LINE> <LINE> Te despiertas en un lugar aislado. Tienes escasas provisiones, y las hordas de muertos vivientes pueden estar ralentizadas por el intenso frí­o - pero no dejan de ser letales. <LINE> <LINE> Abrí­gate bien, superviviente...",
+	Challenge_WinterIsComing_desc = "Es mediados de julio, pero de repente hay una fría brisa. Dentro de apenas tres dias, un invierno se instalará como nunca antes. <LINE> <LINE> Te despiertas en un lugar aislado. Tienes escasas provisiones, y las hordas de muertos vivientes pueden estar ralentizadas por el intenso frío - pero no dejan de ser letales. <LINE> <LINE> Abrígate bien, superviviente...",
 
 	Challenge_OpeningHours_name = "Horario de apertura",
     Challenge_OpeningHours_desc = "El centro comercial esta rodeado. Hace tiempo, era un lugar importante en sus vidas. El instinto les ha llevado a sus puertas. Un recuerdo de lo que solí­an hacer... <LINE> <LINE> Están solos, pero no por mucho tiempo. A las 9 de la mañana el Centro Comercial estará listo para el negocio: las puertas se abrirán, y las hordas entrarán. <LINE> <LINE> Prepárense para ello.",
 
-	Challenge_AReallyCDDAy_name = "Un dí­a realmente malo",
-	Challenge_AReallyCDDAy_desc = "Sales de la regadera y te resbalas gravemente. Estás borracho por completo y tienes un fuerte resfriado. <LINE> <LINE> Encima de todo esto, ¡la casa está en llamas! Definitivamente hoy no es tu dí­a. <LINE> <LINE> [Un reto inspirado en A Really Bad Day del impresionante, maravilloso y MUY RECOMENDADO: Cataclysm: Dark Days Ahead] ",
+	Challenge_AReallyCDDAy_name = "Un día realmente malo",
+	Challenge_AReallyCDDAy_desc = "Sales de la regadera y te resbalas gravemente. Estás completamente borracho y tienes un fuerte resfriado. <LINE> <LINE> Encima de todo esto, ¡la casa está en llamas! Definitivamente hoy no es tu dí­a. <LINE> <LINE> [Un reto inspirado en A Really Bad Day del impresionante, maravilloso y MUY RECOMENDADO: Cataclysm: Dark Days Ahead]",
 
 	Challenge_Challenge1_name = "Casa en el bosque - Último en pie",
-	Challenge_Challenge1_desc = "Puedes oí­rlos acercarse. Hordas de muertos, invadiendo tu cabaña aislada desde todos los ángulos. La muerte es inevitable, pero la escopeta se encuentra cerca. <LINE> <LINE> El modo Último en pie cuenta con interminables oleadas de zombies en un número cada vez mayor. Sobrevive el mayor tiempo posible contra las abrumadoras probabilidades.",
+	Challenge_Challenge1_desc = "Puedes oírlos acercarse. Hordas de muertos, invadiendo tu cabaña aislada desde todos los ángulos. La muerte es inevitable, pero la escopeta se encuentra cerca. <LINE> <LINE> El modo Último en pie cuenta con interminables oleadas de zombies en un número cada vez mayor. Sobrevive el mayor tiempo posible contra las abrumadoras probabilidades.",
 
 	Challenge_Challenge2_name = "Casa en el bosque - Último en pie (Acumulador)",
-	Challenge_Challenge2_desc = "Otro dí­a, otra cabaña lista para ser ensangrentada. Las hordas están sobre ti, y tu muerte será tan dolorosa como espantosa. Así­ que sal a luchar... <LINE> <LINE> El modo Último en pie (Acumulador) presenta interminables oleadas de zombis en número creciente. Utiliza el dinero ganado matando zombies para comprar equipo, subir de nivel y reparar tu armamento bañado en sangre",
+	Challenge_Challenge2_desc = "Otro día, otra cabaña lista para ser ensangrentada. Las hordas están sobre ti, y tu muerte será tan dolorosa como espantosa. Así que sal a luchar... <LINE> <LINE> El modo Último en pie (Acumulador) presenta interminables oleadas de zombies en número creciente. Utiliza el dinero ganado matando zombies para comprar equipo, subir de nivel y reparar tu armamento bañado en sangre.",
 
     Challenge_AStormIsComing_name = "Se acerca una tormenta",
-	Challenge_AStormIsComing_desc = "Las nubes se acumulan sobre Kentucky. El estruendo de los truenos se escucha en la distancia. <LINE> <LINE> Mientras los cielos se oscurecen, los muertos que tropiezan con la tierra se inquietan. <LINE> <LINE> Esta es una tormenta que crecerá y retrocederá en su ferocidad, pero nunca terminará",
+	Challenge_AStormIsComing_desc = "Las nubes se acumulan sobre Kentucky. El estruendo de los truenos se escucha en la distancia. <LINE> <LINE> Mientras los cielos se oscurecen, los muertos que tropiezan con la tierra se inquietan. <LINE> <LINE> Esta es una tormenta que crecerá y retrocederá en su ferocidad, pero nunca terminará.",
 
     Challenge_TheDescendingFog_name = "La niebla descendente",
-    Challenge_TheDescendingFog_desc = "La gente lo vio por primera vez en el agua. Un ligero rastro blanco sobre el rí­o Ohio. <LINE> <LINE> Comenzó como una niebla. Luego envolvió al pueblo. La gente del pueblo murió gritando en la penumbra. Ahora caminan por ahí­. <LINE> <LINE> Sin ser vistos, sin ser escuchados e implacables en la persecución de los vivos",
+    Challenge_TheDescendingFog_desc = "La gente lo vió por primera vez en el agua. Un ligero rastro blanco sobre el río Ohio. <LINE> <LINE> Comenzó como una niebla. Luego envolvió al pueblo. La gente murió gritando en la penumbra. Ahora caminan por ahí. <LINE> <LINE> Sin ser vistos, sin ser escuchados e implacables en la persecución de los vivos.",
 
     Challenge_Kingsmouth_name = "Kingsmouth",
     Challenge_Kingsmouth_desc = "Disfruta de una relajante estancia en la isla de Kingsmouth!.",
 
     Challenge_Studio_name = "Estudio",
-    Challenge_Studio_desc = "¡Donde se graban las mejores pelí­culas!",
+    Challenge_Studio_desc = "¡Donde se graban las mejores películas!",
 	-- On-screen UI
-	Challenge_Challenge2_PressKey = "Presiona "o" para un impulso permanente y para gastar algo de dinero.",
+	Challenge_Challenge2_PressKey = "Presiona 'o' para un impulso permanente y para gastar algo de dinero.",
 	Challenge_Challenge2_WaveStart = "La oleada %1 empieza en : %2 (presiona Enter para omitir)",
 	Challenge_Challenge2_WaveDuration = "Duracion de oleada %1 : %2",
 	Challenge_Challenge2_ZombiesLeft = "Zombies restantes : %1",
@@ -67,7 +67,7 @@ Challenge_LATAM = {
 	Challenge_Challenge2_Health = "Salud",
 
 	Challenge_OpeningHoursInfoBox = " <CENTRE> El centro comercial abre a las 9 de la mañana. <LINE> <LINE> Prepárate para las multitudes...",
-	Challenge_WinterIsComingInfoBox = " <CENTRE> En tres dí­as comienza el interminable invierno. <LINE> <LINE> Abrí­gate bien...",
+	Challenge_WinterIsComingInfoBox = " <CENTRE> En tres dias comienza el interminable invierno. <LINE> <LINE> Abrígate bien...",
 	Challenge_YouHaveOneDayInfoBox = " <CENTRE> En 24 horas su viaje de vuelta al condado de Knox se convertirá en un infierno en la tierra...",
 	Challenge_AStormIsComingInfoBox = " <CENTRE> Se avecina un mal tiempo interminable...",
 	Challenge_TheDescendingFogInfoBox = " <CENTRE> Se está nublando...",
